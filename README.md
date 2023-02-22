@@ -3,6 +3,7 @@
 a simple skeleton and sandbox to start messing around with the http-api library (especially if you're a Hooner with no frontend experience)
 
 - All examples drawn from [here](https://developers.urbit.org/guides/additional/http-api-guide).
+- See [other skeletons](https://github.com/niblyx-malnus/desk-skeletons).
 
 Files to mess around with:
 
