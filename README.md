@@ -4,6 +4,7 @@ a simple skeleton and sandbox to start messing around with the urbit [http-api](
 
 - All examples are drawn from [here](https://developers.urbit.org/guides/additional/http-api-guide).
 - See [other skeletons](https://github.com/niblyx-malnus/desk-skeletons).
+- Look [here](https://reactjs.org/docs/add-react-to-a-website.html) to explore gradually incorporating React elements into what you've built.
 
 Files to mess around with:
 
